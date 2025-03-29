@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 09-03-2025
-## Register Number: 212224230184
-## Name: NETHRA K
+# Date: 29/03/2025
+## Register Number: 212224100031
+## Name: KEERTHANA T
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 
